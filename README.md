@@ -1,2 +1,1 @@
-# devfolio-client
-devfolio client repository
+# Devfolio frontend
